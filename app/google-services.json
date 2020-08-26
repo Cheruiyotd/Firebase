@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247631425438",
+    "firebase_url": "https://cheru-281323.firebaseio.com",
+    "project_id": "cheru-281323",
+    "storage_bucket": "cheru-281323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247631425438:android:77b9866afe339cbd06f08f",
+        "android_client_info": {
+          "package_name": "com.mcheru.cheru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247631425438-9pph0lbpakarv1rit84c890pcan4fosa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdD2Dwg9ik8VVHD9DD-4ksW0bu7xBUkHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247631425438-9pph0lbpakarv1rit84c890pcan4fosa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

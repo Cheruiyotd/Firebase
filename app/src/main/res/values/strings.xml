@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cheru</string>
+    <string name="title_hint">Deal Title</string>
+    <string name="price_hint">price_numbers_only</string>
+    <string name="description_hint">Description</string>
+    <string name="price_hint2">Price (numbers only)</string>
+    <string name="save_menu">save</string>
+</resources>
