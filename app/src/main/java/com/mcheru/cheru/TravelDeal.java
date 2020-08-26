@@ -7,6 +7,7 @@ public class TravelDeal {
     private String price;
     private String imageURL;
 
+    public TravelDeal(){}
     public TravelDeal( String title, String description, String price, String imageURL) {
         this.setId(id);
         this.setTitle(title);
